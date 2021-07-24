@@ -1,1 +1,1 @@
-["NTKhang", "Dùng thoải mái nhé ae, bypass cmnr"]
+["Dùng thoải mái nhé ae, bypass cmnr"]
